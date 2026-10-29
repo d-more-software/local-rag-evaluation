@@ -1,3 +1,4 @@
+<img width="1854" height="932" alt="RAG Evaluation" src="https://github.com/user-attachments/assets/c9296d48-d545-4052-9497-11bfddc58fc3" />
 # RAG Evaluation Project
 
 A Retrieval-Augmented Generation (RAG) application that answers questions about crude oil using a PDF document, hybrid retrieval, and a locally hosted language model. The project also implements an evaluation pipeline to assess answer completeness, faithfulness, and relevance.
