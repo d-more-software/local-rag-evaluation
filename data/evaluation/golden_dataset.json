@@ -1,0 +1,39 @@
+[
+	{
+		"question": "Quels éléments chimiques composent le pétrole brut ?",
+		"expected_answer": "Le pétrole brut est constitué majoritairement d'hydrocarbures et de soufre. Le document mentionne également l'azote, l'oxygène et des traces de vanadium et de nickel.",
+		"required_facts": [
+			"hydrocarbures",
+			"soufre",
+			"azote",
+			"oxygène",
+			"vanadium",
+			"nickel"
+		],
+		"source_pages": [2]
+	},
+	{
+		"question": "Quelle est la teneur en soufre indiquée pour le pétrole brut en général ?",
+		"expected_answer": "Le document indique une teneur en soufre de 0,2 à 5 %.",
+		"required_facts": ["0,2 à 5 %", "soufre"],
+		"source_pages": [2]
+	},
+	{
+		"question": "De quels atomes sont constitués les hydrocarbures ?",
+		"expected_answer": "Les hydrocarbures sont des composés organiques constitués uniquement d'atomes de carbone et d'hydrogène.",
+		"required_facts": ["carbone", "hydrogène"],
+		"source_pages": [2]
+	},
+	{
+		"question": "Quels métaux sont présents à l'état de traces dans le pétrole brut ?",
+		"expected_answer": "Le document mentionne le vanadium et le nickel.",
+		"required_facts": ["vanadium", "nickel"],
+		"source_pages": [2]
+	},
+	{
+		"question": "Comment sont appelés les alcanes linéaires et ramifiés dans le document ?",
+		"expected_answer": "Les alcanes linéaires sont appelés paraffines et les alcanes ramifiés isoparaffines.",
+		"required_facts": ["paraffines", "isoparaffines"],
+		"source_pages": [2]
+	}
+]

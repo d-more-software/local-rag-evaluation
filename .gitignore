@@ -1,0 +1,46 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Environments and secrets
+.venv/
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Testing and code quality
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Local documents and generated data
+data/documents/*
+!data/documents/.gitkeep
+data/evaluation/generated/
+results/*
+!results/.gitkeep
+
+# Model and vector-store artifacts
+models/
+vector_store/
+chroma_db/
+
+# DeepEval local configuration
+.deepeval/
+
+# Generated FAISS index
+data/faiss_index/
