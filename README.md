@@ -159,13 +159,9 @@ Run this step again whenever you change the source documents or indexing configu
 
 ## Usage
 
-### Run the main RAG application
 
-```bash
-uv run python apps/app.py
-```
 
-### Run the evaluation interface
+### Run the  interface
 
 ```bash
 uv run python apps/evaluation_app.py
